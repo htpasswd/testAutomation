@@ -1,4 +1,4 @@
 # testAutomation
 Test Task for QA Automation
 
-Using Selenium + JAVA 8 + Maven + JUnit
+Using JAVA 8 + Selenium + Chrome Driver + Maven + JUnit
