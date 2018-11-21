@@ -81,6 +81,6 @@ public class Tests {
 
     @After
     public void endConnect() {
-        //driver.quit();
+        driver.quit();
     }
 }
